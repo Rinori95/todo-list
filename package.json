@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "ExpressJs with MongoDb",
+  "main": "\u001b[D\u001b[D\u001b[Capp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinori95/todo-list.git"
+  },
+  "author": "Rinor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinori95/todo-list/issues"
+  },
+  "homepage": "https://github.com/Rinori95/todo-list#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
